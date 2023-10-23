@@ -44,9 +44,9 @@ Este projeto simula um sistema de cadastro de clientes, onde é possível adicio
 
 - `hooks/useTabelaOuForm.ts`: Controla a visibilidade da tabela de clientes e do formulário de cadastro.
 
-## Autor
-
-- [Bruno Cesar Serafim ](https://github.com/BCSERAFIM) - [bcserafim.infinityfreeapp](http://bcserafim.infinityfreeapp.com/)
+# Autor
+Bruno Cesar Serafim
+[Linkedin](https://www.linkedin.com/in/bcserafim) - [Site Pessoal](http://bcserafim.infinityfreeapp.com/)
 
 **Nota**: Este é um projeto de exemplo e não está em produção. Foi criado com fins de demonstração e não deve ser utilizado em um ambiente de produção real.
 
