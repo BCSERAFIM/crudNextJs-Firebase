@@ -1,6 +1,9 @@
 # crudNextJs-Firebase
 Cadastro simples de usuários: Incluir, Listar, Alterar e Excluir
 
+[![Licença](https://img.shields.io/github/license/BCSERAFIM/crudNextJs-Firebase)](https://github.com/BCSERAFIM/crudNextJs-Firebase/blob/main/LICENSE)
+
+
 # Projeto de Exemplo - Cadastro de Clientes
 
 Este é um projeto de exemplo que demonstra um sistema de cadastro simples, construído usando Next.js e Firebase Firestore. Ele serve como uma demonstração das habilidades e práticas de desenvolvimento do autor.
